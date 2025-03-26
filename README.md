@@ -147,7 +147,7 @@ Replace `script_name.py` with the actual file name.
 
 ## License
 
-Include your license information here if applicable.
+MIT License
 
 ## Contributing
 
@@ -155,6 +155,6 @@ Contributions are welcome. Please follow standard guidelines for pull requests a
 
 ## Contact
 
-For any questions or support, please contact the project maintainer.
+For any questions or support, please contact contact@vektoris.com
 
 
